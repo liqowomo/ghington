@@ -1,0 +1,14 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   263  100   263    0     0   1043      0 --:--:-- --:--:-- --:--:--  1043
+{
+  "ip": "20.212.154.206",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "readme": "https://ipinfo.io/missingauth"
+}
